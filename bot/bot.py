@@ -1,7 +1,7 @@
 import random
 import telebot
 
-bot = telebot.TeleBot("7965271489:AAE9e3s0tVfqiiSb4PX4S0A7tErCikkafVo")
+bot = telebot.TeleBot("")
 
 diameter = 0  # Глобальный диаметр
 
